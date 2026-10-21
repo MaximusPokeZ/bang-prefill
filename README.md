@@ -31,6 +31,12 @@ picks up the result on its own.
 
 Mentions inside a sentence are ignored, and text you have already typed is never overwritten.
 
+## Requirements
+
+- Claude Code **2.1.303** or later, in a terminal session. Tested on 2.1.303.
+  bang-prefill is a hooks module ("mod"), an early-access plugin API that may change between releases.
+- macOS or Linux with `/bin/zsh`.
+
 ## Install
 
 At the Claude Code prompt:
