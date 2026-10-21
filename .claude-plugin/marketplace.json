@@ -1,0 +1,6 @@
+{
+  "name": "bang-prefill",
+  "description": "Prefill and run the shell commands Claude Code suggests",
+  "owner": { "name": "MaximusPokeZ" },
+  "plugins": [{ "name": "bang-prefill", "source": "./" }]
+}

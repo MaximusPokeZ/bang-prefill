@@ -1,0 +1,6 @@
+{
+  "name": "bang-prefill",
+  "version": "0.1.0",
+  "description": "Puts the `! <command>` Claude suggests into your prompt box: press Enter to run it, and Claude sees the output and keeps going",
+  "author": { "name": "MaximusPokeZ", "url": "https://github.com/MaximusPokeZ" }
+}
